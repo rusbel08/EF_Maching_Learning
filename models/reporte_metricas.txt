@@ -1,0 +1,11 @@
+Accuracy en TEST: 88.89%
+
+              precision    recall  f1-score   support
+
+ antracnosis      0.750     1.000     0.857         3
+    botrytis      0.750     1.000     0.857         3
+        sano      1.000     0.833     0.909        12
+
+    accuracy                          0.889        18
+   macro avg      0.833     0.944     0.874        18
+weighted avg      0.917     0.889     0.892        18
